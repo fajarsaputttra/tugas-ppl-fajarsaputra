@@ -1,0 +1,15 @@
+Metode Waterfall adalah salah satu pendekatan dalam pengembangan perangkat lunak yang mengikuti urutan langkah-langkah yang terstruktur dan linear. Pendekatan ini sering digambarkan sebagai aliran air yang mengalir secara berurutan dari satu tahap ke tahap berikutnya, mirip dengan aliran air dari atas ke bawah (waterfall) yang tidak dapat terputus. Metode Waterfall memiliki beberapa tahap utama yang harus dilalui secara berurutan:
+
+1. **Analisis**: Tahap ini melibatkan identifikasi kebutuhan dan tujuan proyek perangkat lunak. Tim proyek bekerja dengan pelanggan dan pemangku kepentingan untuk mengumpulkan persyaratan dan memahami kebutuhan bisnis.
+
+2. **Perancangan**: Pada tahap ini, persyaratan yang dikumpulkan pada tahap analisis diterjemahkan menjadi desain perangkat lunak yang lebih terperinci. Ini mencakup desain arsitektur, antarmuka pengguna, struktur data, dan elemen teknis lainnya.
+
+3. **Implementasi**: Tahap ini adalah saat para pengembang mengambil desain dari tahap sebelumnya dan mulai mengkode perangkat lunak sesuai dengan rencana. Ini adalah tahap di mana komponen perangkat lunak sebenarnya dibangun.
+
+4. **Pengujian**: Setelah pengembangan selesai, perangkat lunak diuji secara menyeluruh untuk memastikan bahwa ia memenuhi persyaratan dan berfungsi dengan benar. Ini mencakup pengujian fungsional, pengujian integrasi, dan pengujian kinerja.
+
+5. **Pengiriman/Implementasi**: Setelah pengujian selesai dan perangkat lunak dianggap siap, ia bisa diimplementasikan ke lingkungan produksi atau disampaikan kepada pelanggan.
+
+6. **Pemeliharaan**: Tahap ini melibatkan pemeliharaan dan dukungan lanjutan terhadap perangkat lunak setelah diluncurkan. Ini bisa mencakup perbaikan bug, pembaruan, dan peningkatan fitur berdasarkan umpan balik pengguna.
+
+Metode Waterfall cocok untuk proyek-proyek di mana persyaratan stabil dan tidak cenderung berubah sepanjang waktu. Namun, pendekatan ini kurang cocok untuk proyek-proyek yang kompleks atau yang memerlukan fleksibilitas dalam mengatasi perubahan persyaratan karena urutan linier dan ketidakmampuan untuk kembali ke tahap sebelumnya. Beberapa model pengembangan perangkat lunak lain, seperti metode Agile, telah muncul untuk mengatasi keterbatasan ini dengan lebih baik.

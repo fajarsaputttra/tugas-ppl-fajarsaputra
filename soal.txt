@@ -1,8 +1,8 @@
 1. Sistem apa yang anda kembangkan pada mata kuliah ini?
-Jawab:
+Jawab: Sistem yang ingin dikembangkan adalah sebuah sistem yang dapat mengontrol suatu sistem lain.
 
 2. Apa tujuan anda mengembangkan sistem tersebut?
-Jawab:
+Jawab: Tujuan dibuatkan sistem ini adalah agar dapat bermanfaat bagi orang lain.
 
 3. Apa harapan yang ingin anda dapatkan dari user ketika menggunakan sistem yang anda kembangkan?
-Jawab:
+Jawab: Harapannya adalah user terbantu dengan adanya sistem tersebut.
